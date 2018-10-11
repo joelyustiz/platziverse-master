@@ -1,0 +1,1 @@
+plataforma de IoT, enfocándonos en Real Time. Utilizaremos las nuevas características de JavaScript que vienen en ECMAScript 2016 y vamos a trabajar con Postgres como base de datos.
